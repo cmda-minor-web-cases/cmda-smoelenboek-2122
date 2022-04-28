@@ -14,7 +14,7 @@
 ...
 
 ## Opdrachtgever
-CMD Amsterdam 
+CMD Amsterdam  
 Product Owner: Vasilis van Gemert
 
 ## Design challenge
