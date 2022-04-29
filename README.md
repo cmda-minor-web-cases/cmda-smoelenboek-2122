@@ -1,6 +1,6 @@
 # CMDA Smoelenboek
 
-![CMDA Smoelenboek](...)
+<!--![CMDA Smoelenboek](...)-->
 
 ## Inhoudsopgave
   * [Beschrijving](#beschrijving)
