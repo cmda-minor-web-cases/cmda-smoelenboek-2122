@@ -37,7 +37,7 @@ Als docent,
 wil ik eenvoudig mijn profiel kunnen wijzigen, zodat ik dat niet op honderd verschillende plekken hoef te doen.
 
 ## Data
-Er is data in DLO. Het is interessant om te onderzoeken of deze data op de een of andere manier te gebruiken is.
+Data moet kunnen worden ontsloten en beheerd in een CMS systeem.
 
 ## Planning
 In de eerste week van de meesterproef is een briefing met de opdrachtgever en begeleiders. Wekelijks wordt aan de opdrachtgever een prototype gedemonstreerd en de volgende stappen besproken. Tussentijds kunnen via Teams vragen gesteld worden.
